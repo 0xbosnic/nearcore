@@ -1,6 +1,7 @@
 # Changelog
 
 ## [unreleased]
+* Reduced gas floor price to .00001 N/Tgas to enable cheaper transactions
 
 ### Protocol Changes
 
